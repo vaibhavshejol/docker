@@ -13,7 +13,7 @@ public class DockExample1Application {
 
 	@GetMapping
 	public String getMessage(){
-		return "This application working well.....";
+		return "This updated application working well.....";
 	}
 
 	public static void main(String[] args) {
